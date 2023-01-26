@@ -9,7 +9,7 @@ x = Convert.ToInt32(Console.ReadLine());
 
 Par();
 Primo();
-Fibonacci();
+Fibonacci(); 
 
 Console.WriteLine("\n{0}: {1}, {2} y {3}\n", x, valPar, valPrim, valFib);
 
